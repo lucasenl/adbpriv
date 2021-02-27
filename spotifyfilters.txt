@@ -1,4 +1,3 @@
-################# SPOTIFY - ADS
 127.0.0.1 1435575.fls.doubleclick.net
 127.0.0.1 2542116.fls.doubleclick.net
 127.0.0.1 2mdn.net
