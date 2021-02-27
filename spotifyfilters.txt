@@ -467,7 +467,7 @@
 127.0.0.1 showads1000.pubmatic.com
 127.0.0.1 showadsak.pubmatic.com
 127.0.0.1 so.2mdn.net
-127.0.0.1 spclient.wg.spotify.com
+0.0.0.0 spclient.wg.spotify.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 static.2mdn.net
 127.0.0.1 static.doubleclick.net
