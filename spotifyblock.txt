@@ -422,6 +422,7 @@
 ||spotify.sp.backtrace.io
 ||search.spotxchange.com
 ||sync.search.spotxchange.com
+||spclient.wg.spotify.com
 ||spotxchange.com
 ||spotx.tv
 ||supportspotify.iad1.qualtrics.com
